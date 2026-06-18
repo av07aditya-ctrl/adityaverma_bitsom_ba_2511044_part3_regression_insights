@@ -1,7 +1,7 @@
 # Part 3: Regression-Based Business Insights & Model Interpretation
 
 **Student:** Aditya Verma | **ID:** `bitsom_ba_2511044`  
-**Repository:** `aditya_bitsom_ba_2511044_part3_regression_insights`  
+**Repository:** `adityaverma_bitsom_ba_2511044_part3_regression_insights`  
 **Tool Stack:** Python 3 (pandas, statsmodels, scipy, xlsxwriter, matplotlib)
 
 ---
@@ -15,7 +15,7 @@ An Indian retail chain with **80 stores** across 4 regions and 4 store types wan
 ## Repository Structure
 
 ```
-aditya_bitsom_ba_2511044_part3_regression_insights/
+adityaverma_bitsom_ba_2511044_part3_regression_insights/
 ├── data/
 │   └── business_regression_data.xlsx
 ├── analysis/
