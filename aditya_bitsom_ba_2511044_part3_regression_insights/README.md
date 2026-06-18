@@ -31,7 +31,6 @@ adityaverma_bitsom_ba_2511044_part3_regression_insights/
 │   ├── multiple_regression_output.png  ← Coef plot, actual vs predicted, p-values
 │   ├── residuals_preview.png           ← QQ plot, histogram, outlier bar chart
 │   └── model_comparison_preview.png    ← R², RMSE, AIC comparison + correlations
-├── part3_main.py                 ← Full processing script
 └── README.md
 ```
 
